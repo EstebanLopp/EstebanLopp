@@ -33,7 +33,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
 
 ✔ Llamame: ***Esteban*** o ***TeamWorker*** 😊 <br>
-✔ Sot de aprendizaje autonomo y me interesa saber de todo un poco.<br>
+✔ Soy de aprendizaje autonomo y me interesa saber de todo un poco.<br>
 ✔ Investigo y me informo mucho sobre **deep learning**🥰<br>
 ✔ Estoy abierto a participar en proyectos que me brinden enseñanza y experiencia.<br>
 ✔ Me gusta socializar y aprender cada que se puede 😉<br>
