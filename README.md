@@ -32,12 +32,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
 
-✔ Llamame: ***Esteban*** o ***TeamWorker*** 😊 <br>
+✔ Llamame: ***Esteban*** o ***TeamWorker*** <br>
 ✔ Soy de aprendizaje autonomo y me interesa saber de todo un poco.<br>
-✔ Investigo y me informo mucho sobre **deep learning**🥰<br>
+✔ Investigo y me informo mucho sobre **deep learning**<br>
 ✔ Estoy abierto a participar en proyectos que me brinden enseñanza y experiencia.<br>
-✔ Me gusta socializar y aprender cada que se puede 😉<br>
-✔ Sabiduria de programacion: "Si funciona, no lo toques" 😎<br><br><br><br>
+✔ Me gusta socializar y aprender cada que se puede <br>
+✔ Sabiduria de programacion: "Si funciona, no lo toques" <br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***He trabajado con...***
