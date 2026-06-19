@@ -22,9 +22,9 @@ Currently expanding into AI agents with N8N and Spring Boot.
 
 ## Currently
 
-- 🔧 Automating test cases with Playwright + Pytest at Cloudlabs Learning
-- 🤖 Building QAgen — AI-powered test generation and self-healing agent
-- 📚 Learning Spring Boot (Jakarta) and AI workflow automation with N8N
+- Automating test cases with Playwright + Pytest at Cloudlabs Learning
+- Building QAgen — AI-powered test generation and self-healing agent
+- Learning Spring Boot (Jakarta) and AI workflow automation with N8N
 
 ---
 
@@ -67,6 +67,6 @@ project. Supports customer, seller, and admin flows.
 
 ## Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/TU-URL-AQUI)
-- 📧 tu-email@gmail.com
-- 📍 Pereira, Colombia — open to remote opportunities
+- [LinkedIn](www.linkedin.com/in/esteban-lopez-software)
+- estebanlopez5015@gmail.com
+- Pereira, Colombia — open to remote opportunities
