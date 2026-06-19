@@ -46,19 +46,22 @@ Currently expanding into AI agents with N8N and Spring Boot.
 
 ## Projects
 
-### [AgroNet — Agricultural E-Commerce Platform](https://github.com/EstebanLopp/Backend-AgroNet)
-Django-based platform for agricultural commerce. Users can register,
-become sellers, publish products, and manage listings through a full
-CRUD system. Built as a capstone project during my SENA training.
-`Python` · `Django` · `MySQL` · `CSS`
+### [@estebanlopp/qagen](https://www.npmjs.com/package/@estebanlopp/qagen) — AI-Powered QA Agent
+Autonomous QA agent that analyzes web applications, generates Playwright
+tests using AI, and self-heals broken selectors automatically.
+Available on npm · v0.2.0 · Active development.
+
+`npm install -g @estebanlopp/qagen`
+
+`Node.js` · `Playwright` · `OpenAI API` · `CLI`
 
 ---
 
-### QAgen — AI-Powered Test Automation Agent *(in development)*
-Analyzes your application, generates Playwright test cases using AI,
-executes them, and self-heals broken selectors automatically —
-without manual intervention.
-`Python` · `Playwright` · `AI`
+### [AgroNet](https://github.com/EstebanLopp/Backend-AgroNet) — Agricultural E-Commerce Platform
+Multi-role web platform for agricultural commerce built as a capstone
+project. Supports customer, seller, and admin flows.
+
+`Node.js` · `Express` · `MySQL` · `JavaScript`
 
 ---
 
