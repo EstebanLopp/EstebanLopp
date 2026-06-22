@@ -67,6 +67,6 @@ project. Supports customer, seller, and admin flows.
 
 ## Let's connect
 
-- [LinkedIn](www.linkedin.com/in/esteban-lopez-software)
+- [LinkedIn](https://www.linkedin.com/in/esteban-lopez-software/)
 - estebanlopez5015@gmail.com
 - Pereira, Colombia — open to remote opportunities
